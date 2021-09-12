@@ -1,1 +1,1 @@
-# GSSbit-Token
+GSS Token is laid on the Binance network (BEP20), fully decentralized and driven by its fans, Having burns controlled by the team and promoted based on achievements helps to keep the community rewarded and informed.
